@@ -69,16 +69,6 @@ const Sidebar = () => {
                         <Icon icon="simple-icons:codewars" color="#4d4d4e" />
                     </a>
                 </li>
-                <li>
-                    <a 
-                        target='_blank' 
-                        rel='noreferrer' 
-                        href='https://github.com/Phili0916'
-                    >
-                        <FontAwesomeIcon icon={faCode} color="#4d4d4e" />
-                        {/* <img src={codewars} alt="codewars icon" color="#4d4d4e" /> */}
-                    </a>
-                </li>
             </ul>
         </div>
     )
